@@ -1,0 +1,21 @@
+OS 2020 1
+Assignments Week 02: Done!
+Encrypted Message:
+-----BEGIN PGP MESSAGE-----
+
+hQIMA9D1291n323eARAAqCWdaB/3lRqgj3kgTi07jmN/blwX7kSCnwA4+3SLzwPJ
+7GE9u7mMf+BcWTF73uExL/aI7b/Hq3zeGVEdLq+eilfhaRRU4/n6zuScCxPfSUK9
+kDFyme3x5phvYqqFiZzU7iC42k+A7ivm3xjN8tfEriPYbYjHvut2JY7ERCjObXhv
+cKoOPCSjcFr7d8bV35ERF3tVHzrB2voRnnPUPTqXxkpLfODGDq0xUYFZJmps/DEH
+nOpZaTdgg1iGGSR7BsCZ7dUrH/Teu78HaVwTrtVLt5zrFKLYYKJnhk8N0diRH7wB
+sC4cSY9qYvrFvbiDqa41hJ8oFcpW46Ao8SSRWPB7ui62tUnUyUL1nX2eoh4gKz+f
+Gj0gUt6j9lldO9ChFL1wPr91xoGJZGCxyBfq2xa+nrgoSrOs48LHSWMDowSBzOvZ
+uu8d4fsYWq0sGtM5t9sF7kglMDelL/MZ01Iyo1J2WuTq5jGaF9psFYHBdzQc44MR
+nfs6axNaTRwFnaWeTM/PCooeEdUrcoecfQih7e/wTxpZl709PsFXmSjEOzvs/fJq
+DVeXxEKstBT5vgPnsxC/3ia9ioZl2UT1Picdxt/UanfPyobkcruJDOJZgeYG0eSB
+w4qDwkjCl1JhX7f+ZwwCfqxddFGF00m8FzdXyv/Cm4Ko3qkBEZQzqbtuVZOiNXvJ
+UxinT4jv84jUr10xjD+e5DuGzyW+OfvenBFQCDvTobTzO3cKaUy8+5t/vm1JuZMN
+hzYnZ2eJ6aWPbrkjgdOj5taT3+4PDPk8yACGPUqKtHYEMCT+
+=eQDy
+
+-----END PGP MESSAGE-----

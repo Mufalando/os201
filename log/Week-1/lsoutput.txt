@@ -1,0 +1,8 @@
+total 0
+-rwxrwxrwx 1 mufalando mufalando   37 Jan 29 09:16 W00-log.txt
+-rwxrwxrwx 1 mufalando mufalando   37 Feb  5 06:51 W01-log.txt
+drwxrwxrwx 1 mufalando mufalando 4096 Jan 29 09:22 Week 0 Assignment
+-rwxrwxrwx 1 mufalando mufalando    0 Feb  5 07:08 lsoutput.txt
+  PID TTY          TIME CMD
+    7 tty1     00:00:01 bash
+   74 tty1     00:00:00 ps
