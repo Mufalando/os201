@@ -2,7 +2,7 @@
 
 ## Navigasi
 1. [**Home**](https://mufalando.github.io/os201/).
-2. [**List**](https://mufalando.github.io/os201/urls).
+2. [**Url**](https://mufalando.github.io/os201/url).
 
 ## Urls
 Untuk mempelajari Sistem Operasi, terdapat beberapa link yang dapat kita pelajari:
@@ -10,4 +10,4 @@ Untuk mempelajari Sistem Operasi, terdapat beberapa link yang dapat kita pelajar
 * https://rms46.github.io/cbkadal/
 * https://opensource.com/
 * https://www.gnu.org/
-* https://www.tutorialspoint.com/unix_commands/index.htm
+* https://www.tutorialspoint.com/unix_commands/index.html
