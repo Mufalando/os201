@@ -1,5 +1,6 @@
 # Website UAS OS
 
+## Pembukaan
 Selamat datang di website github saya, Website sederhana ini menggunakan github themes untuk menstyle ini.
 Halaman utama dari website ini menjawab beberapa pertanyaan:
  * Siapa: Pembuat website ini adalah M Fathurizki Herlando yang memiliki akun github Mufalando
@@ -10,6 +11,7 @@ Halaman utama dari website ini menjawab beberapa pertanyaan:
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-_italic Website ini memiliki navigasi sebagai berikut:
+## List
+_Website ini memiliki navigasi sebagai berikut:
 1. [**Home**](https://mufalando.github.io/os201/).
 2. [**List**](https://mufalando.github.io/os201/urls).
