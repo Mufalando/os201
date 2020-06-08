@@ -14,4 +14,4 @@ Halaman utama dari website ini menjawab beberapa pertanyaan:
 ## List
 _Website ini memiliki navigasi sebagai berikut:
 1. [**Home**](https://mufalando.github.io/os201/).
-2. [**url**](https://mufalando.github.io/os201/url).
+2. [**Url**](https://mufalando.github.io/os201/url).
