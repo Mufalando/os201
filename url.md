@@ -1,8 +1,12 @@
+---
+permalink: /URLs/
+---
+
 # Website UAS OS
 
 ## Navigasi
 1. [**Home**](https://mufalando.github.io/os201/).
-2. [**Url**](https://mufalando.github.io/os201/url).
+2. [**Url**](https://mufalando.github.io/os201/URLs).
 
 ## Urls
 Untuk mempelajari Sistem Operasi, terdapat beberapa link yang dapat kita pelajari:
