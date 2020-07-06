@@ -1,24 +1,15 @@
-Script started on 2020-06-04 14:53:52+0700
-]0;mufalando@LAPTOP-NREJ0QEI: /mnt/d/Fathur/Akademik/Ujicoba/OS[01;32mmufalando@LAPTOP-NREJ0QEI[00m:[01;34m/mnt/d/Fathur/Akademik/Ujicoba/OS[00m$ cat 0001-mytest.txt 
-]0;mufalando@LAPTOP-NREJ0QEI: /mnt/d/Fathur/Akademik/Ujicoba/OS[01;32mmufalando@LAPTOP-NREJ0QEI[00m:[01;34m/mnt/d/Fathur/Akademik/Ujicoba/OS[00m$ PS1="$ "
-$ echo $Gith[KHubUser
+Script started on 2020-07-06 20:00:52+0700
+]0;mufalando@LAPTOP-NREJ0QEI: /mnt/d/for_os/os201/UAS[01;32mmufalando@LAPTOP-NREJ0QEI[00m:[01;34m/mnt/d/for_os/os201/UAS[00m$ PS1 =[K[K="$ "
+$ date
+Mon Jul  6 20:01:02 +07 2020
+$ echo $HOSTNAME
+LAPTOP-NREJ0QEI
+$ echo$[K $A[KakunGithub
 Mufalando
-$ echo $PSAMP
-
-$ echo $PSAMPTAMP
-TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-$ eval $PSTAMP
-200604-145452-4aa8-OS/> 
-$ eval $PSTAMP
-200604-145457-ab49-OS/> 
-$ PS1 =[K[K=:[K"\$(evail[K[K;[Kl \$PSTAMP)"
-200604-145524-9001-OS/> date
-Thu Jun  4 14:55:28 +07 2020
-200604-145528-5425-OS/> gpg2 --list-keys
-gpg: checking the trustdb
-gpg: marginals needed: 3  completes needed: 1  trust model: pgp
-gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
-gpg: next trustdb check due at 2021-06-04
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(sleep 1;echo $TMP1-$akunGitHub-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ PS1="\$(ecal[K[K[Kval \$PSTAMP)"
+200706-200144-b41b-UAS/> gpg2 --list-keys
 /home/mufalando/.gnupg/pubring.kbx
 ----------------------------------
 pub   rsa4096 2020-06-04 [SC] [expires: 2021-06-04]
@@ -26,7 +17,27 @@ pub   rsa4096 2020-06-04 [SC] [expires: 2021-06-04]
 uid           [ultimate] Mufalando (Untuk UAS OS) <muhammad.fathurizki@ui.ac.id>
 sub   rsa4096 2020-06-04 [E] [expires: 2021-06-04]
 
-200604-145542-eed0-OS/> exit
+pub   rsa4096 2020-06-04 [SC] [expires: 2021-06-04]
+      6625520888A19D05B74BD310D5A5E33EDD458F8A
+uid           [ultimate] Fathurizki (Test2) <muhfathurh@gmail.com>
+sub   rsa4096 2020-06-04 [E] [expires: 2021-06-04]
+
+pub   rsa4096 2020-02-13 [SC] [expires: 2021-02-12]
+      B4507B533F7F22840BD8E93ED0F5DBDD67DF6DDE
+uid           [ unknown] Operating Systems (OS) <operatingsystems@vlsm.org>
+sub   rsa4096 2020-02-13 [E] [expires: 2021-02-12]
+
+pub   rsa4096 2020-02-23 [SC] [expires: 2021-02-22]
+      9F02F8096A49D90963374A90F0A433A8E3599CD8
+uid           [ unknown] Muhammad Zuhdi Zamrud (Hello! I'm Zuhdi) <mzuhdi.zamrud@gmail.com>
+sub   rsa4096 2020-02-23 [E] [expires: 2021-02-22]
+
+pub   rsa4096 2020-02-23 [SC] [expires: 2021-02-22]
+      C35EEA5B2A8966540857E7E19AB3DFAA489C7B6B
+uid           [ unknown] Fauzan Pradana Linggih (membuat public key dana) <fpradanalinggih@gmail.com>
+sub   rsa4096 2020-02-23 [E] [expires: 2021-02-22]
+
+200706-200154-2f57-UAS/> exit
 exit
 
-Script done on 2020-06-04 14:56:00+0700
+Script done on 2020-07-06 20:03:07+0700

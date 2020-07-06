@@ -1,0 +1,36 @@
+Script started on 2020-07-06 20:33:22+0700
+]0;mufalando@LAPTOP-NREJ0QEI: /mnt/d/for_os/os201/UAS[01;32mmufalando@LAPTOP-NREJ0QEI[00m:[01;34m/mnt/d/for_os/os201/UAS[00m$ PS1="$ "
+$ echo $akunGithub
+Mufalando
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(sleep 1;echo $TMP1-$akunGitHub-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ date
+Mon Jul  6 20:33:46 +07 2020
+$ PS1="\$(eval \$P[KPSTAMP)"
+200706-203401-c1c3-UAS/> echo -e $CEKSAYA
+Mufalando ZCZCSCRIPTSTART 200706-202301 Mufalando
+ Mufalando Mufalando 200604-145452-4aa8-OS/ 200604-145452 SEQOK SUMOK 4aa80a33
+ Mufalando Mufalando 200604-145457-ab49-OS/ 200604-145457 SEQOK SUMOK ab4904ce
+ Mufalando Mufalando 200604-145524-9001-OS/ 200604-145524 SEQOK SUMOK 900197e9
+ Mufalando Mufalando 200604-145528-5425-OS/ 200604-145528 SEQOK SUMOK 54259aa1
+ Mufalando Mufalando 200604-145542-eed0-OS/ 200604-145542 SEQOK SUMOK eed0c106
+ Mufalando ZCZCSCRIPTSTOP 200706-202301 SEQOK SUMOK
+
+200706-203409-6e9a-UAS/> echo -e $CEKSAYA[K[K[KEE[KBELA1
+Mufalando ZCZCSCRIPTSTART 200706-203142 muhammadmichael
+ Mufalando muhammadmichael 200706-170509-13ac-muhammad.michael/ 200706-170509 SEQOK SUMOK 13ac99d2
+ Mufalando muhammadmichael 200706-170519-6c0a-muhammad.michael/ 200706-170519 SEQOK SUMOK 6c0ad2db
+ Mufalando ZCZCSCRIPTSTOP 200706-203142 SEQOK SUMOK
+
+200706-203421-4a78-UAS/> echo -e $CEKSEBELA1[K2
+Mufalando ZCZCSCRIPTSTART 200706-203220 naufalauddin
+ Mufalando naufalauddin 200531-191605-d5b2-UAS/ 200531-191605 SEQOK SUMOK d5b2a7f0
+ Mufalando naufalauddin 200531-191628-accf-UAS/ 200531-191628 SEQOK SUMOK accfda11
+ Mufalando naufalauddin 200531-191637-2188-UAS/ 200531-191637 SEQOK SUMOK 218854d9
+ Mufalando naufalauddin 200531-191650-5ee4-UAS/ 200531-191650 SEQOK SUMOK 5ee48293
+ Mufalando ZCZCSCRIPTSTOP 200706-203220 SEQOK SUMOK
+
+200706-203428-a81a-UAS/> exit[C
+exit
+
+Script done on 2020-07-06 20:34:56+0700
